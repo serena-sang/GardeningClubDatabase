@@ -1,0 +1,2 @@
+# GardeningClubDatabase
+Connected to SQLite
